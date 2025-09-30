@@ -1,0 +1,232 @@
+@font-face {
+    font-family: Steelfish;
+    src: url("./steelfish.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@keyframes background-loop {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.2);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+/* Общие стили для скроллбара */
+::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+}
+
+* {
+    scrollbar-color: #555 #333;
+}
+
+::-webkit-scrollbar-track {
+    background: #333;
+    border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #555;
+    border-radius: 6px;
+    border: 2px solid #333;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #777;
+}
+
+::-webkit-scrollbar-thumb:active {
+    background: #888;
+}
+
+::-webkit-scrollbar-corner {
+    background: #333;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: inherit ,Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: currentColor;
+    transition: all .4s ease 0s;
+}
+
+body {
+    position: relative;
+    overflow-x: hidden;
+    font-family: 'Steelfish', Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.sidebar {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #F2B9C2;
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+    border-radius: 12px;
+    gap: 12px;
+    background-color: #53486F;
+    position: fixed;
+}
+
+.sidebar-title {
+    font-family:'Steelfish', Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 2rem;
+    letter-spacing: 5%;
+    text-transform: uppercase;
+}
+
+.sidebar-caption {
+    color: #C398A9;
+    line-height: 140%;
+}
+
+.background {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    animation: background-loop 30s 0s ease infinite;
+}
+
+.constellation-card {
+    display: flex;
+    padding: 12px;
+    flex-direction: column;
+    gap: 8px; 
+    background-color: #F2B9C2; 
+    border-radius: 12px;
+}
+
+.constellation-card:hover {
+    transform: scale(0.95);
+}
+
+.constellation-card:hover .constellation-picture {
+    transform: scale(1.1);
+}
+
+.constellation-picture-wrapper {
+    aspect-ratio: 35/25;
+    width: 100%;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.constellation-picture {
+    width: 100%;
+    height: 100%;
+}
+
+.constellation-name {
+    font-size: 2rem;
+    margin: 12px;
+    color: #423C66;
+    text-transform: uppercase;
+    letter-spacing: 5%;
+}
+
+.constellations-container {
+    display: grid;
+    gap: 0.5rem;
+    grid-template-columns: repeat(3, minmax(400px, 400px));
+}
+
+.page-title {
+    color: #F2B9C2;
+    font-size: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 7%;
+    display: flex;
+    width: 100%;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 400px minmax(500px, 1260px);
+    justify-content: center;
+    gap: 3rem;
+    padding: 3rem;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.sidebar-submit, .sidebar-link {
+    text-decoration: none;
+    display: flex;
+    padding: 12px;
+    border-radius: 6px;
+    background-color: #F2B9C2;
+    color: #423C66;
+    width: 100%;
+    cursor: pointer;
+    font-size: 1rem;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.sidebar-submit:hover, .sidebar-link:hover {
+    text-decoration: underline;
+}
+
+.sidebar-date {
+    background-color: #F2B9C2;
+    color: #423C66;
+    padding: 12px;
+    border-radius: 6px 6px 0 0;
+    width: 100%;
+    border: none;
+    font-size: 1rem;
+
+}
+
+.sidebar-submit {
+    border-radius: 0 0 6px 6px;
+}
+
+.constellation-info {
+    gap: 2rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.constellation-description {
+    color: #423C66;
+    background-color: #F2B9C2;
+    border-radius: 12px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    flex-direction: column;
+    display: flex;
+    gap: 2rem;
+    padding: 24px;
+    width: fit-content;
+}
+
+.constellation-description .title {
+    font-family: 'Steelfish', Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 2rem;
+    margin-bottom: 12px;
+    letter-spacing: 5%;
+} 
+
+.constellation-info .constellation-picture {
+    border-radius: 12px;
+}

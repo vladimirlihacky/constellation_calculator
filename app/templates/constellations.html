@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block content %}
+    <div class="page-title">
+        {{ title }}
+    </div>
+    <div class="constellations-container">
+        {% for constellation in constellations %}
+            <a class="constellation-card" href="/constellations/{{ constellation.id }}">
+                <div class="constellation-picture-wrapper">
+                    <img src="{{ url_for('static', path=constellation.picture) }}" class="constellation-picture">
+                </div>
+                <div class="constellation-name">
+                    {{ constellation.name }}
+                </div>
+            </a>
+        {% endfor %}
+    </div>
+{% endblock %}

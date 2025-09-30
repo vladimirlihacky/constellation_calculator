@@ -1,0 +1,2062 @@
+[
+  {
+    "id": "phe",
+    "name": "Феникс",
+    "name_eng": "Phoenix",
+    "season": "осеннее",
+    "best_months": [
+      10,
+      11,
+      12
+    ],
+    "center_ra": 3.380211487179487,
+    "center_dec": -46.98210433333333,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 43,
+      "always_visible_above": null,
+      "never_visible_below": -43
+    },
+    "stars_count": 39,
+    "description": "Cозвездие южного полушария неба. Занимает на небе площадь в 469,3 квадратного градуса, содержит 68 звёзд, видимых невооружённым глазом. ",
+    "how_to_find": "Чтобы найти созвездие Феникс, вам нужно находиться в южном полушарии, так как оно полностью видно только к югу от 32-й параллели северной широты, хотя частично его можно наблюдать и в южных районах России в октябре-ноябре. Ищите его в районе звезд Ахернар (в созвездии Эридана) и Фомальгаут (в Южной Рыбе), ориентируясь по звезде Анкаа, которая является самой яркой в Фениксе",
+    "picture": "constellations/phe.jpg"
+  },
+  {
+    "id": "oct",
+    "name": "Октант",
+    "name_eng": "Octans",
+    "season": "осеннее",
+    "best_months": [
+      9,
+      10,
+      11
+    ],
+    "center_ra": 17.005375828571427,
+    "center_dec": -81.75582814285713,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 8,
+      "always_visible_above": null,
+      "never_visible_below": -8
+    },
+    "stars_count": 35,
+    "description": "Созвездие Октант содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/oct.jpg"
+  },
+  {
+    "id": "cas",
+    "name": "Кассиопея",
+    "name_eng": "Cassiopeia",
+    "season": "осеннее",
+    "best_months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "center_ra": 4.555749333333334,
+    "center_dec": 61.37149302150537,
+    "visibility": {
+      "min_latitude": -29,
+      "max_latitude": 90,
+      "always_visible_above": 29,
+      "never_visible_below": null
+    },
+    "stars_count": 93,
+    "description": "Кассиопея образует характерную W-образную фигуру. Яркие звезды: Cih, Schedar, Caph.",
+    "how_to_find": "Ищите пять ярких звезд, образующих букву W или M на небе.",
+    "picture": "constellations/cas.jpg"
+  },
+  {
+    "id": "psc",
+    "name": "Рыбы",
+    "name_eng": "Pisces",
+    "season": "осеннее",
+    "best_months": [
+      10,
+      11,
+      12
+    ],
+    "center_ra": 7.037495822784809,
+    "center_dec": 10.870166126582278,
+    "visibility": {
+      "min_latitude": -79,
+      "max_latitude": 90,
+      "always_visible_above": 79,
+      "never_visible_below": null
+    },
+    "stars_count": 79,
+    "description": "Созвездие Рыбы содержит звезды: Alpherg, Alrescha.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/psc.jpg"
+  },
+  {
+    "id": "peg",
+    "name": "Пегас",
+    "name_eng": "Pegasus",
+    "season": "осеннее",
+    "best_months": [
+      10,
+      11,
+      12
+    ],
+    "center_ra": 21.44911372448979,
+    "center_dec": 18.773110091836735,
+    "visibility": {
+      "min_latitude": -71,
+      "max_latitude": 90,
+      "always_visible_above": 71,
+      "never_visible_below": null
+    },
+    "stars_count": 98,
+    "description": "Созвездие Пегас содержит звезды: Enif, Scheat, Markab.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/peg.jpg"
+  },
+  {
+    "id": "scl",
+    "name": "Скульптор",
+    "name_eng": "Sculptor",
+    "season": "осеннее",
+    "best_months": [
+      10,
+      11,
+      12
+    ],
+    "center_ra": 6.3766423030303025,
+    "center_dec": -31.324988484848483,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 59,
+      "always_visible_above": null,
+      "never_visible_below": -59
+    },
+    "stars_count": 33,
+    "description": "Созвездие Скульптор содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/scl.jpg"
+  },
+  {
+    "id": "cet",
+    "name": "Кит",
+    "name_eng": "Cetus",
+    "season": "осеннее",
+    "best_months": [
+      10,
+      11,
+      12
+    ],
+    "center_ra": 1.6858654324324323,
+    "center_dec": -8.253568729729725,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 82,
+      "always_visible_above": null,
+      "never_visible_below": -82
+    },
+    "stars_count": 111,
+    "description": "Созвездие Кит содержит звезды: Diphda, Menkar.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/cet.jpg"
+  },
+  {
+    "id": "tuc",
+    "name": "Тукан",
+    "name_eng": "Tucana",
+    "season": "осеннее",
+    "best_months": [
+      10,
+      11,
+      12
+    ],
+    "center_ra": 11.935029392857144,
+    "center_dec": -63.01768064285716,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 27,
+      "always_visible_above": null,
+      "never_visible_below": -27
+    },
+    "stars_count": 28,
+    "description": "Созвездие Тукан содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/tuc.jpg"
+  },
+  {
+    "id": "cep",
+    "name": "Цефей",
+    "name_eng": "Cepheus",
+    "season": "осеннее",
+    "best_months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "center_ra": 18.929554673684216,
+    "center_dec": 69.62811359999998,
+    "visibility": {
+      "min_latitude": -20,
+      "max_latitude": 90,
+      "always_visible_above": 20,
+      "never_visible_below": null
+    },
+    "stars_count": 95,
+    "description": "Созвездие Цефей содержит звезды: Alderamin, Errai, Alfirk.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/cep.jpg"
+  },
+  {
+    "id": "and",
+    "name": "Андромеда",
+    "name_eng": "Andromeda",
+    "season": "осеннее",
+    "best_months": [
+      9,
+      10,
+      11
+    ],
+    "center_ra": 7.5533684320987655,
+    "center_dec": 40.69199490123456,
+    "visibility": {
+      "min_latitude": -49,
+      "max_latitude": 90,
+      "always_visible_above": 49,
+      "never_visible_below": null
+    },
+    "stars_count": 81,
+    "description": "Созвездие Андромеда содержит звезды: Alpheratz, Mirach, Almach.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/and.jpg"
+  },
+  {
+    "id": "hyi",
+    "name": "Южная Гидра",
+    "name_eng": "Hydrus",
+    "season": "зимнее",
+    "best_months": [
+      11,
+      12,
+      1
+    ],
+    "center_ra": 2.2637801,
+    "center_dec": -71.18944994999998,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 19,
+      "always_visible_above": null,
+      "never_visible_below": -19
+    },
+    "stars_count": 20,
+    "description": "Созвездие Южная Гидра содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/hyi.jpg"
+  },
+  {
+    "id": "eri",
+    "name": "Эридан",
+    "name_eng": "Eridanus",
+    "season": "зимнее",
+    "best_months": [
+      12,
+      1,
+      2
+    ],
+    "center_ra": 3.8684788294573655,
+    "center_dec": -18.39933905426356,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 72,
+      "always_visible_above": null,
+      "never_visible_below": -72
+    },
+    "stars_count": 129,
+    "description": "Созвездие Эридан содержит звезды: Achernar, Cursa, Acamar.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/eri.jpg"
+  },
+  {
+    "id": "tri",
+    "name": "Треугольник",
+    "name_eng": "Triangulum",
+    "season": "осеннее",
+    "best_months": [
+      11,
+      12,
+      1
+    ],
+    "center_ra": 2.2060631111111113,
+    "center_dec": 32.26629716666666,
+    "visibility": {
+      "min_latitude": -58,
+      "max_latitude": 90,
+      "always_visible_above": 58,
+      "never_visible_below": null
+    },
+    "stars_count": 18,
+    "description": "Созвездие Треугольник содержит звезды: Mothallah.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/tri.jpg"
+  },
+  {
+    "id": "per",
+    "name": "Персей",
+    "name_eng": "Perseus",
+    "season": "зимнее",
+    "best_months": [
+      12,
+      1,
+      2
+    ],
+    "center_ra": 3.4613785757575757,
+    "center_dec": 44.48672002020201,
+    "visibility": {
+      "min_latitude": -46,
+      "max_latitude": 90,
+      "always_visible_above": 46,
+      "never_visible_below": null
+    },
+    "stars_count": 99,
+    "description": "Созвездие Персей содержит звезды: Mirfak, Algol.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/per.jpg"
+  },
+  {
+    "id": "ari",
+    "name": "Овен",
+    "name_eng": "Aries",
+    "season": "осеннее",
+    "best_months": [
+      11,
+      12,
+      1
+    ],
+    "center_ra": 2.6318841754385955,
+    "center_dec": 21.107732298245608,
+    "visibility": {
+      "min_latitude": -69,
+      "max_latitude": 90,
+      "always_visible_above": 69,
+      "never_visible_below": null
+    },
+    "stars_count": 57,
+    "description": "Созвездие Овен содержит звезды: Hamal, Sheratan, Bharani.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/ari.jpg"
+  },
+  {
+    "id": "for",
+    "name": "Печь",
+    "name_eng": "Fornax",
+    "season": "осеннее",
+    "best_months": [
+      11,
+      12,
+      1
+    ],
+    "center_ra": 2.887638576923077,
+    "center_dec": -30.913603999999996,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 59,
+      "always_visible_above": null,
+      "never_visible_below": -59
+    },
+    "stars_count": 26,
+    "description": "Созвездие Печь содержит звезды: Dalim.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/for.jpg"
+  },
+  {
+    "id": "hor",
+    "name": "Часы",
+    "name_eng": "Horologium",
+    "season": "зимнее",
+    "best_months": [
+      12,
+      1,
+      2
+    ],
+    "center_ra": 3.239305722222222,
+    "center_dec": -52.78367561111111,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 37,
+      "always_visible_above": null,
+      "never_visible_below": -37
+    },
+    "stars_count": 18,
+    "description": "Созвездие Часы содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/hor.jpg"
+  },
+  {
+    "id": "umi",
+    "name": "Малая Медведица",
+    "name_eng": "Ursa Minor",
+    "season": "летнее",
+    "best_months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "center_ra": 14.973120360000001,
+    "center_dec": 76.49211572,
+    "visibility": {
+      "min_latitude": -14,
+      "max_latitude": 90,
+      "always_visible_above": 14,
+      "never_visible_below": null
+    },
+    "stars_count": 25,
+    "description": "Созвездие Малая Медведица содержит звезды: Polaris, Kochab, Pherkad.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/umi.jpg"
+  },
+  {
+    "id": "ret",
+    "name": "Сетка",
+    "name_eng": "Reticulum",
+    "season": "зимнее",
+    "best_months": [
+      12,
+      1,
+      2
+    ],
+    "center_ra": 4.013570625000001,
+    "center_dec": -62.5716760625,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 27,
+      "always_visible_above": null,
+      "never_visible_below": -27
+    },
+    "stars_count": 16,
+    "description": "Созвездие Сетка содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/ret.jpg"
+  },
+  {
+    "id": "cam",
+    "name": "Жираф",
+    "name_eng": "Camelopardalis",
+    "season": "зимнее",
+    "best_months": [
+      12,
+      1,
+      2
+    ],
+    "center_ra": 5.9906526000000015,
+    "center_dec": 66.50536662666669,
+    "visibility": {
+      "min_latitude": -23,
+      "max_latitude": 90,
+      "always_visible_above": 23,
+      "never_visible_below": null
+    },
+    "stars_count": 75,
+    "description": "Созвездие Жираф содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/cam.jpg"
+  },
+  {
+    "id": "tau",
+    "name": "Телец",
+    "name_eng": "Taurus",
+    "season": "зимнее",
+    "best_months": [
+      12,
+      1,
+      2
+    ],
+    "center_ra": 4.546494208333336,
+    "center_dec": 17.397278284722233,
+    "visibility": {
+      "min_latitude": -73,
+      "max_latitude": 90,
+      "always_visible_above": 73,
+      "never_visible_below": null
+    },
+    "stars_count": 144,
+    "description": "Созвездие Телец содержит звезды: Aldebaran, Elnath, Alcyone.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/tau.jpg"
+  },
+  {
+    "id": "men",
+    "name": "Столовая Гора",
+    "name_eng": "Mensa",
+    "season": "зимнее",
+    "best_months": [
+      1,
+      2,
+      3
+    ],
+    "center_ra": 5.4392292,
+    "center_dec": -77.58614919999998,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 12,
+      "always_visible_above": null,
+      "never_visible_below": -12
+    },
+    "stars_count": 15,
+    "description": "Созвездие Столовая Гора содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/men.jpg"
+  },
+  {
+    "id": "dor",
+    "name": "Золотая Рыба",
+    "name_eng": "Dorado",
+    "season": "зимнее",
+    "best_months": [
+      1,
+      2,
+      3
+    ],
+    "center_ra": 5.494383,
+    "center_dec": -63.216785499999986,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 27,
+      "always_visible_above": null,
+      "never_visible_below": -27
+    },
+    "stars_count": 18,
+    "description": "Созвездие Золотая Рыба содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/dor.jpg"
+  },
+  {
+    "id": "cae",
+    "name": "Резец",
+    "name_eng": "Caelum",
+    "season": "зимнее",
+    "best_months": [
+      12,
+      1,
+      2
+    ],
+    "center_ra": 4.797302,
+    "center_dec": -36.69827885714285,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 53,
+      "always_visible_above": null,
+      "never_visible_below": -53
+    },
+    "stars_count": 7,
+    "description": "Созвездие Резец содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/cae.jpg"
+  },
+  {
+    "id": "pic",
+    "name": "Живописец",
+    "name_eng": "Pictor",
+    "season": "зимнее",
+    "best_months": [
+      1,
+      2,
+      3
+    ],
+    "center_ra": 5.84412847826087,
+    "center_dec": -53.32988852173913,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 37,
+      "always_visible_above": null,
+      "never_visible_below": -37
+    },
+    "stars_count": 23,
+    "description": "Созвездие Живописец содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/pic.jpg"
+  },
+  {
+    "id": "ori",
+    "name": "Орион",
+    "name_eng": "Orion",
+    "season": "зимнее",
+    "best_months": [
+      1,
+      2,
+      3
+    ],
+    "center_ra": 5.606708507812501,
+    "center_dec": 4.27692209375,
+    "visibility": {
+      "min_latitude": -86,
+      "max_latitude": 90,
+      "always_visible_above": 86,
+      "never_visible_below": null
+    },
+    "stars_count": 128,
+    "description": "Орион — одно из самых красивых и узнаваемых созвездий. Содержит яркие звезды: Rigel, Betelgeuse, Bellatrix.",
+    "how_to_find": "Ищите три яркие звезды, образующие Пояс Ориона — они расположены почти на одной линии.",
+    "picture": "constellations/ori.jpg"
+  },
+  {
+    "id": "aur",
+    "name": "Возничий",
+    "name_eng": "Auriga",
+    "season": "зимнее",
+    "best_months": [
+      12,
+      1,
+      2
+    ],
+    "center_ra": 5.84860175,
+    "center_dec": 40.142614907894746,
+    "visibility": {
+      "min_latitude": -50,
+      "max_latitude": 90,
+      "always_visible_above": 50,
+      "never_visible_below": null
+    },
+    "stars_count": 76,
+    "description": "Созвездие Возничий содержит звезды: Capella, Menkalinan.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/aur.jpg"
+  },
+  {
+    "id": "lep",
+    "name": "Заяц",
+    "name_eng": "Lepus",
+    "season": "зимнее",
+    "best_months": [
+      1,
+      2,
+      3
+    ],
+    "center_ra": 5.572860733333332,
+    "center_dec": -19.06578522222222,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 71,
+      "always_visible_above": null,
+      "never_visible_below": -71
+    },
+    "stars_count": 45,
+    "description": "Созвездие Заяц содержит звезды: Arneb, Nihal.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/lep.jpg"
+  },
+  {
+    "id": "col",
+    "name": "Голубь",
+    "name_eng": "Columba",
+    "season": "зимнее",
+    "best_months": [
+      1,
+      2,
+      3
+    ],
+    "center_ra": 5.955689644444446,
+    "center_dec": -35.813325,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 54,
+      "always_visible_above": null,
+      "never_visible_below": -54
+    },
+    "stars_count": 45,
+    "description": "Созвездие Голубь содержит звезды: Phact, Wazn.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/col.jpg"
+  },
+  {
+    "id": "mon",
+    "name": "Единорог",
+    "name_eng": "Monoceros",
+    "season": "зимнее",
+    "best_months": [
+      2,
+      3,
+      4
+    ],
+    "center_ra": 6.8627540563380265,
+    "center_dec": -2.5361222394366187,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 87,
+      "always_visible_above": null,
+      "never_visible_below": -87
+    },
+    "stars_count": 71,
+    "description": "Созвездие Единорог содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/mon.jpg"
+  },
+  {
+    "id": "gem",
+    "name": "Близнецы",
+    "name_eng": "Gemini",
+    "season": "зимнее",
+    "best_months": [
+      1,
+      2,
+      3
+    ],
+    "center_ra": 7.17162893243243,
+    "center_dec": 23.196642797297297,
+    "visibility": {
+      "min_latitude": -67,
+      "max_latitude": 90,
+      "always_visible_above": 67,
+      "never_visible_below": null
+    },
+    "stars_count": 74,
+    "description": "Созвездие Близнецы содержит звезды: Pollux, Castor, Alhena.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/gem.jpg"
+  },
+  {
+    "id": "pup",
+    "name": "Корма",
+    "name_eng": "Puppis",
+    "season": "зимнее",
+    "best_months": [
+      2,
+      3,
+      4
+    ],
+    "center_ra": 7.683825199999999,
+    "center_dec": -33.994449951724114,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 56,
+      "always_visible_above": null,
+      "never_visible_below": -56
+    },
+    "stars_count": 145,
+    "description": "Созвездие Корма содержит звезды: Naos, Tureis.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/pup.jpg"
+  },
+  {
+    "id": "cma",
+    "name": "Большой Пёс",
+    "name_eng": "Canis Major",
+    "season": "зимнее",
+    "best_months": [
+      1,
+      2,
+      3
+    ],
+    "center_ra": 6.9213590444444435,
+    "center_dec": -22.3341047111111,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 68,
+      "always_visible_above": null,
+      "never_visible_below": -68
+    },
+    "stars_count": 90,
+    "description": "Созвездие Большой Пёс содержит звезды: Sirius, Adhara, Wezen.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/cma.jpg"
+  },
+  {
+    "id": "lyn",
+    "name": "Рысь",
+    "name_eng": "Lynx",
+    "season": "зимнее",
+    "best_months": [
+      2,
+      3,
+      4
+    ],
+    "center_ra": 7.927463300000003,
+    "center_dec": 48.867631866666656,
+    "visibility": {
+      "min_latitude": -41,
+      "max_latitude": 90,
+      "always_visible_above": 41,
+      "never_visible_below": null
+    },
+    "stars_count": 60,
+    "description": "Созвездие Рысь содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/lyn.jpg"
+  },
+  {
+    "id": "car",
+    "name": "Киль",
+    "name_eng": "Carina",
+    "season": "зимнее",
+    "best_months": [
+      2,
+      3,
+      4
+    ],
+    "center_ra": 9.315469988306448,
+    "center_dec": -60.73853837185482,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 29,
+      "always_visible_above": null,
+      "never_visible_below": -29
+    },
+    "stars_count": 124,
+    "description": "Созвездие Киль содержит звезды: Canopus, Miaplacidus, Avior.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/car.jpg"
+  },
+  {
+    "id": "vol",
+    "name": "Летучая Рыба",
+    "name_eng": "Volans",
+    "season": "зимнее",
+    "best_months": [
+      2,
+      3,
+      4
+    ],
+    "center_ra": 8.067853789473684,
+    "center_dec": -68.96717510526315,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 21,
+      "always_visible_above": null,
+      "never_visible_below": -21
+    },
+    "stars_count": 19,
+    "description": "Созвездие Летучая Рыба содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/vol.jpg"
+  },
+  {
+    "id": "cmi",
+    "name": "Малый Пёс",
+    "name_eng": "Canis Minor",
+    "season": "зимнее",
+    "best_months": [
+      2,
+      3,
+      4
+    ],
+    "center_ra": 7.553138439999999,
+    "center_dec": 6.07886416,
+    "visibility": {
+      "min_latitude": -84,
+      "max_latitude": 90,
+      "always_visible_above": 84,
+      "never_visible_below": null
+    },
+    "stars_count": 25,
+    "description": "Созвездие Малый Пёс содержит звезды: Procyon, Gomeisa.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/cmi.jpg"
+  },
+  {
+    "id": "cnc",
+    "name": "Рак",
+    "name_eng": "Cancer",
+    "season": "зимнее",
+    "best_months": [
+      2,
+      3,
+      4
+    ],
+    "center_ra": 8.624896408163266,
+    "center_dec": 20.180475755102037,
+    "visibility": {
+      "min_latitude": -70,
+      "max_latitude": 90,
+      "always_visible_above": 70,
+      "never_visible_below": null
+    },
+    "stars_count": 49,
+    "description": "Созвездие Рак содержит звезды: Tarf, Asellus Australis.",
+    "how_to_find": "Созвездие видно в зимнее время года.",
+    "picture": "constellations/cnc.jpg"
+  },
+  {
+    "id": "vel",
+    "name": "Паруса",
+    "name_eng": "Vela",
+    "season": "весеннее",
+    "best_months": [
+      2,
+      3,
+      4
+    ],
+    "center_ra": 9.282658590551184,
+    "center_dec": -47.81978259055119,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 42,
+      "always_visible_above": null,
+      "never_visible_below": -42
+    },
+    "stars_count": 127,
+    "description": "Созвездие Паруса содержит звезды: Alsephina, Suhail.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/vel.jpg"
+  },
+  {
+    "id": "hya",
+    "name": "Гидра",
+    "name_eng": "Hydra",
+    "season": "весеннее",
+    "best_months": [
+      2,
+      3,
+      4
+    ],
+    "center_ra": 10.681014851239667,
+    "center_dec": -17.108669148760324,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 73,
+      "always_visible_above": null,
+      "never_visible_below": -73
+    },
+    "stars_count": 121,
+    "description": "Созвездие Гидра содержит звезды: Alphard.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/hya.jpg"
+  },
+  {
+    "id": "uma",
+    "name": "Большая Медведица",
+    "name_eng": "Ursa Major",
+    "season": "весеннее",
+    "best_months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "center_ra": 10.78387312903226,
+    "center_dec": 53.96760277419354,
+    "visibility": {
+      "min_latitude": -36,
+      "max_latitude": 90,
+      "always_visible_above": 36,
+      "never_visible_below": null
+    },
+    "stars_count": 124,
+    "description": "созвездие северного полушария неба. Семь звёзд Большой Медведицы составляют фигуру, напоминающую ковш с ручкой. Две самые яркие звезды — Алиот и Дубхе — имеют блеск 1,8 видимой звёздной величины. По двум крайним звёздам этой фигуры (α и β) можно найти Полярную звезду",
+    "how_to_find": "Чтобы найти созвездие Большой Медведицы, найдите на северной части неба семь ярких звезд, образующих фигуру, похожую на ковш с ручкой. Летом ковш находится на северо-западе, осенью — на севере, зимой — на северо-востоке, а весной — почти в зените, над головой. Чтобы найти Полярную звезду, мысленно проведите линию через две крайние звезды ковша, противоположные ручке, и отложите на этой линии расстояние, равное пятикратной дистанции между этими звездами – она и будет Полярной звездой",
+    "picture": "constellations/uma.jpg"
+  },
+  {
+    "id": "cha",
+    "name": "Хамелеон",
+    "name_eng": "Chamaeleon",
+    "season": "весеннее",
+    "best_months": [
+      3,
+      4,
+      5
+    ],
+    "center_ra": 10.486160368421054,
+    "center_dec": -79.20890757894736,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 11,
+      "always_visible_above": null,
+      "never_visible_below": -11
+    },
+    "stars_count": 19,
+    "description": "Созвездие Хамелеон содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/cha.jpg"
+  },
+  {
+    "id": "pyx",
+    "name": "Компас",
+    "name_eng": "Pyxis",
+    "season": "весеннее",
+    "best_months": [
+      2,
+      3,
+      4
+    ],
+    "center_ra": 8.814231333333332,
+    "center_dec": -29.248468111111112,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 61,
+      "always_visible_above": null,
+      "never_visible_below": -61
+    },
+    "stars_count": 18,
+    "description": "Созвездие Компас содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/pyx.jpg"
+  },
+  {
+    "id": "leo",
+    "name": "Лев",
+    "name_eng": "Leo",
+    "season": "весеннее",
+    "best_months": [
+      3,
+      4,
+      5
+    ],
+    "center_ra": 10.6628044875,
+    "center_dec": 13.2879506375,
+    "visibility": {
+      "min_latitude": -77,
+      "max_latitude": 90,
+      "always_visible_above": 77,
+      "never_visible_below": null
+    },
+    "stars_count": 80,
+    "description": "Созвездие Лев содержит звезды: Regulus, Algieba, Denebola.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/leo.jpg"
+  },
+  {
+    "id": "ant",
+    "name": "Насос",
+    "name_eng": "Antlia",
+    "season": "весеннее",
+    "best_months": [
+      3,
+      4,
+      5
+    ],
+    "center_ra": 10.072178739130434,
+    "center_dec": -33.301066,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 57,
+      "always_visible_above": null,
+      "never_visible_below": -57
+    },
+    "stars_count": 23,
+    "description": "Созвездие Насос содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/ant.jpg"
+  },
+  {
+    "id": "lmi",
+    "name": "Малый Лев",
+    "name_eng": "Leo Minor",
+    "season": "весеннее",
+    "best_months": [
+      3,
+      4,
+      5
+    ],
+    "center_ra": 10.292212272727273,
+    "center_dec": 33.84653931818182,
+    "visibility": {
+      "min_latitude": -56,
+      "max_latitude": 90,
+      "always_visible_above": 56,
+      "never_visible_below": null
+    },
+    "stars_count": 22,
+    "description": "Созвездие Малый Лев содержит звезды: Praecipua.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/lmi.jpg"
+  },
+  {
+    "id": "dra",
+    "name": "Дракон",
+    "name_eng": "Draco",
+    "season": "летнее",
+    "best_months": [
+      6,
+      7,
+      8
+    ],
+    "center_ra": 17.116264459016392,
+    "center_dec": 63.265066688524584,
+    "visibility": {
+      "min_latitude": -27,
+      "max_latitude": 90,
+      "always_visible_above": 27,
+      "never_visible_below": null
+    },
+    "stars_count": 122,
+    "description": "Созвездие Дракон содержит звезды: Eltanin, Athebyne, Rastaban.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/dra.jpg"
+  },
+  {
+    "id": "sex",
+    "name": "Секстант",
+    "name_eng": "Sextans",
+    "season": "весеннее",
+    "best_months": [
+      2,
+      3,
+      4
+    ],
+    "center_ra": 10.376604235294117,
+    "center_dec": -3.2104525882352943,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 87,
+      "always_visible_above": null,
+      "never_visible_below": -87
+    },
+    "stars_count": 17,
+    "description": "Созвездие Секстант содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/sex.jpg"
+  },
+  {
+    "id": "crt",
+    "name": "Чаша",
+    "name_eng": "Crater",
+    "season": "весеннее",
+    "best_months": [
+      3,
+      4,
+      5
+    ],
+    "center_ra": 11.359418999999999,
+    "center_dec": -15.404648705882353,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 75,
+      "always_visible_above": null,
+      "never_visible_below": -75
+    },
+    "stars_count": 17,
+    "description": "Созвездие Чаша содержит звезды: Alkes.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/crt.jpg"
+  },
+  {
+    "id": "cen",
+    "name": "Центавр",
+    "name_eng": "Centaurus",
+    "season": "весеннее",
+    "best_months": [
+      4,
+      5,
+      6
+    ],
+    "center_ra": 13.082280229885058,
+    "center_dec": -47.639699344827584,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 42,
+      "always_visible_above": null,
+      "never_visible_below": -42
+    },
+    "stars_count": 174,
+    "description": "Созвездие Центавр содержит звезды: Rigil Kentaurus, Hadar, Toliman.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/cen.jpg"
+  },
+  {
+    "id": "mus",
+    "name": "Муха",
+    "name_eng": "Musca",
+    "season": "весеннее",
+    "best_months": [
+      4,
+      5,
+      6
+    ],
+    "center_ra": 12.43664922580645,
+    "center_dec": -69.02568241935482,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 21,
+      "always_visible_above": null,
+      "never_visible_below": -21
+    },
+    "stars_count": 31,
+    "description": "Созвездие Муха содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/mus.jpg"
+  },
+  {
+    "id": "vir",
+    "name": "Дева",
+    "name_eng": "Virgo",
+    "season": "весеннее",
+    "best_months": [
+      4,
+      5,
+      6
+    ],
+    "center_ra": 13.307639777777782,
+    "center_dec": -2.641455161616162,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 87,
+      "always_visible_above": null,
+      "never_visible_below": -87
+    },
+    "stars_count": 99,
+    "description": "Созвездие Дева содержит звезды: Spica, Porrima, Vindemiatrix.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/vir.jpg"
+  },
+  {
+    "id": "cru",
+    "name": "Южный Крест",
+    "name_eng": "Crux",
+    "season": "весеннее",
+    "best_months": [
+      4,
+      5,
+      6
+    ],
+    "center_ra": 12.495161343750002,
+    "center_dec": -60.04445700000001,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 30,
+      "always_visible_above": null,
+      "never_visible_below": -30
+    },
+    "stars_count": 32,
+    "description": "Созвездие Южный Крест содержит звезды: Acrux, Mimosa, Gacrux.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/cru.jpg"
+  },
+  {
+    "id": "crv",
+    "name": "Ворон",
+    "name_eng": "Corvus",
+    "season": "весеннее",
+    "best_months": [
+      4,
+      5,
+      6
+    ],
+    "center_ra": 12.388033666666667,
+    "center_dec": -19.41956194444444,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 71,
+      "always_visible_above": null,
+      "never_visible_below": -71
+    },
+    "stars_count": 18,
+    "description": "Созвездие Ворон содержит звезды: Gienah, Kraz, Algorab.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/crv.jpg"
+  },
+  {
+    "id": "com",
+    "name": "Волосы Вероники",
+    "name_eng": "Coma Berenices",
+    "season": "весеннее",
+    "best_months": [
+      4,
+      5,
+      6
+    ],
+    "center_ra": 12.666662282051282,
+    "center_dec": 22.855099666666668,
+    "visibility": {
+      "min_latitude": -67,
+      "max_latitude": 90,
+      "always_visible_above": 67,
+      "never_visible_below": null
+    },
+    "stars_count": 39,
+    "description": "Созвездие Волосы Вероники содержит звезды: Diadem.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/com.jpg"
+  },
+  {
+    "id": "cvn",
+    "name": "Гончие Псы",
+    "name_eng": "Canes Venatici",
+    "season": "весеннее",
+    "best_months": [
+      4,
+      5,
+      6
+    ],
+    "center_ra": 13.19493781818182,
+    "center_dec": 39.895964575757574,
+    "visibility": {
+      "min_latitude": -50,
+      "max_latitude": 90,
+      "always_visible_above": 50,
+      "never_visible_below": null
+    },
+    "stars_count": 33,
+    "description": "Созвездие Гончие Псы содержит звезды: Cor Caroli, Chara.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/cvn.jpg"
+  },
+  {
+    "id": "boo",
+    "name": "Волопас",
+    "name_eng": "Bootes",
+    "season": "весеннее",
+    "best_months": [
+      4,
+      5,
+      6
+    ],
+    "center_ra": 14.661219492386367,
+    "center_dec": 30.139692561818176,
+    "visibility": {
+      "min_latitude": -60,
+      "max_latitude": 90,
+      "always_visible_above": 60,
+      "never_visible_below": null
+    },
+    "stars_count": 88,
+    "description": "Созвездие Волопас содержит звезды: Arcturus, Izar, Muphrid.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/boo.jpg"
+  },
+  {
+    "id": "cir",
+    "name": "Циркуль",
+    "name_eng": "Circinus",
+    "season": "весеннее",
+    "best_months": [
+      4,
+      5,
+      6
+    ],
+    "center_ra": 14.799970952380951,
+    "center_dec": -63.884393571428575,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 26,
+      "always_visible_above": null,
+      "never_visible_below": -26
+    },
+    "stars_count": 21,
+    "description": "Созвездие Циркуль содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/cir.jpg"
+  },
+  {
+    "id": "aps",
+    "name": "Райская Птица",
+    "name_eng": "Apus",
+    "season": "летнее",
+    "best_months": [
+      6,
+      7,
+      8
+    ],
+    "center_ra": 16.028467095238096,
+    "center_dec": -75.82730833333332,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 14,
+      "always_visible_above": null,
+      "never_visible_below": -14
+    },
+    "stars_count": 21,
+    "description": "Созвездие Райская Птица содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/aps.jpg"
+  },
+  {
+    "id": "lup",
+    "name": "Волк",
+    "name_eng": "Lupus",
+    "season": "летнее",
+    "best_months": [
+      6,
+      7,
+      8
+    ],
+    "center_ra": 15.234858567567569,
+    "center_dec": -42.8195037027027,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 47,
+      "always_visible_above": null,
+      "never_visible_below": -47
+    },
+    "stars_count": 74,
+    "description": "Созвездие Волк содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/lup.jpg"
+  },
+  {
+    "id": "lib",
+    "name": "Весы",
+    "name_eng": "Libra",
+    "season": "весеннее",
+    "best_months": [
+      5,
+      6,
+      7
+    ],
+    "center_ra": 15.335718693877554,
+    "center_dec": -16.893458897959185,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 73,
+      "always_visible_above": null,
+      "never_visible_below": -73
+    },
+    "stars_count": 49,
+    "description": "Созвездие Весы содержит звезды: Zubeneschamali, Zubenelgenubi, Brachium.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/lib.jpg"
+  },
+  {
+    "id": "tra",
+    "name": "Треугольник",
+    "name_eng": "Triangulum",
+    "season": "осеннее",
+    "best_months": [
+      11,
+      12,
+      1
+    ],
+    "center_ra": 16.078283,
+    "center_dec": -66.4093737142857,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 24,
+      "always_visible_above": null,
+      "never_visible_below": -24
+    },
+    "stars_count": 21,
+    "description": "Созвездие Треугольник содержит звезды: Atria.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/tra.jpg"
+  },
+  {
+    "id": "ser",
+    "name": "Змея",
+    "name_eng": "Serpens",
+    "season": "летнее",
+    "best_months": [
+      5,
+      6,
+      7
+    ],
+    "center_ra": 16.611365446153847,
+    "center_dec": 3.7576425692307716,
+    "visibility": {
+      "min_latitude": -86,
+      "max_latitude": 90,
+      "always_visible_above": 86,
+      "never_visible_below": null
+    },
+    "stars_count": 65,
+    "description": "Созвездие Змея содержит звезды: Unukalhai.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/ser.jpg"
+  },
+  {
+    "id": "crb",
+    "name": "Северная Корона",
+    "name_eng": "Corona Borealis",
+    "season": "весеннее",
+    "best_months": [
+      5,
+      6,
+      7
+    ],
+    "center_ra": 15.878233615384614,
+    "center_dec": 32.203230923076916,
+    "visibility": {
+      "min_latitude": -58,
+      "max_latitude": 90,
+      "always_visible_above": 58,
+      "never_visible_below": null
+    },
+    "stars_count": 26,
+    "description": "Созвездие Северная Корона содержит звезды: Alphecca, Nusakan.",
+    "how_to_find": "Созвездие видно в весеннее время года.",
+    "picture": "constellations/crb.jpg"
+  },
+  {
+    "id": "nor",
+    "name": "Наугольник",
+    "name_eng": "Norma",
+    "season": "летнее",
+    "best_months": [
+      6,
+      7,
+      8
+    ],
+    "center_ra": 16.163452653846154,
+    "center_dec": -51.69389146153845,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 38,
+      "always_visible_above": null,
+      "never_visible_below": -38
+    },
+    "stars_count": 26,
+    "description": "Созвездие Наугольник содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/nor.jpg"
+  },
+  {
+    "id": "sco",
+    "name": "Скорпион",
+    "name_eng": "Scorpius",
+    "season": "летнее",
+    "best_months": [
+      6,
+      7,
+      8
+    ],
+    "center_ra": 16.77926120192307,
+    "center_dec": -32.1001208173077,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 58,
+      "always_visible_above": null,
+      "never_visible_below": -58
+    },
+    "stars_count": 104,
+    "description": "Созвездие Скорпион содержит звезды: Antares, Shaula, Sargas.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/sco.jpg"
+  },
+  {
+    "id": "her",
+    "name": "Геркулес",
+    "name_eng": "Hercules",
+    "season": "летнее",
+    "best_months": [
+      6,
+      7,
+      8
+    ],
+    "center_ra": 17.372568919117658,
+    "center_dec": 27.573836470588223,
+    "visibility": {
+      "min_latitude": -62,
+      "max_latitude": 90,
+      "always_visible_above": 62,
+      "never_visible_below": null
+    },
+    "stars_count": 136,
+    "description": "Созвездие Геркулес содержит звезды: Kornephoros, Rasalgethi.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/her.jpg"
+  },
+  {
+    "id": "oph",
+    "name": "Змееносец",
+    "name_eng": "Ophiuchus",
+    "season": "летнее",
+    "best_months": [
+      6,
+      7,
+      8
+    ],
+    "center_ra": 17.38299702272727,
+    "center_dec": -6.144833215909091,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 84,
+      "always_visible_above": null,
+      "never_visible_below": -84
+    },
+    "stars_count": 88,
+    "description": "Созвездие Змееносец содержит звезды: Rasalhague, Sabik.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/oph.jpg"
+  },
+  {
+    "id": "ara",
+    "name": "Жертвенник",
+    "name_eng": "Ara",
+    "season": "летнее",
+    "best_months": [
+      6,
+      7,
+      8
+    ],
+    "center_ra": 17.278424,
+    "center_dec": -53.947637418604636,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 36,
+      "always_visible_above": null,
+      "never_visible_below": -36
+    },
+    "stars_count": 43,
+    "description": "Созвездие Жертвенник содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/ara.jpg"
+  },
+  {
+    "id": "pav",
+    "name": "Павлин",
+    "name_eng": "Pavo",
+    "season": "летнее",
+    "best_months": [
+      7,
+      8,
+      9
+    ],
+    "center_ra": 19.578471750000002,
+    "center_dec": -64.9701781590909,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 25,
+      "always_visible_above": null,
+      "never_visible_below": -25
+    },
+    "stars_count": 44,
+    "description": "Созвездие Павлин содержит звезды: Peacock.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/pav.jpg"
+  },
+  {
+    "id": "sgr",
+    "name": "Стрелец",
+    "name_eng": "Sagittarius",
+    "season": "летнее",
+    "best_months": [
+      7,
+      8,
+      9
+    ],
+    "center_ra": 19.04654375213675,
+    "center_dec": -26.350138529914535,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 64,
+      "always_visible_above": null,
+      "never_visible_below": -64
+    },
+    "stars_count": 117,
+    "description": "Созвездие Стрелец содержит звезды: Kaus Australis, Nunki, Ascella.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/sgr.jpg"
+  },
+  {
+    "id": "cra",
+    "name": "Южная Корона",
+    "name_eng": "Corona Australis",
+    "season": "летнее",
+    "best_months": [
+      6,
+      7,
+      8
+    ],
+    "center_ra": 18.75353572413793,
+    "center_dec": -40.742099413793106,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 49,
+      "always_visible_above": null,
+      "never_visible_below": -49
+    },
+    "stars_count": 29,
+    "description": "Созвездие Южная Корона содержит звезды: Meridiana.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/cra.jpg"
+  },
+  {
+    "id": "tel",
+    "name": "Телескоп",
+    "name_eng": "Telescopium",
+    "season": "летнее",
+    "best_months": [
+      7,
+      8,
+      9
+    ],
+    "center_ra": 19.09589266666667,
+    "center_dec": -49.85317925925927,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 40,
+      "always_visible_above": null,
+      "never_visible_below": -40
+    },
+    "stars_count": 27,
+    "description": "Созвездие Телескоп содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/tel.jpg"
+  },
+  {
+    "id": "lyr",
+    "name": "Лира",
+    "name_eng": "Lyra",
+    "season": "летнее",
+    "best_months": [
+      7,
+      8,
+      9
+    ],
+    "center_ra": 18.889951297297298,
+    "center_dec": 35.14985424324325,
+    "visibility": {
+      "min_latitude": -55,
+      "max_latitude": 90,
+      "always_visible_above": 55,
+      "never_visible_below": null
+    },
+    "stars_count": 37,
+    "description": "Созвездие Лира содержит звезды: Vega, Sulafat, Sheliak.",
+    "how_to_find": "Найдите яркую звезду Вега, которая является вершиной Летнего треугольника.",
+    "picture": "constellations/lyr.jpg"
+  },
+  {
+    "id": "sct",
+    "name": "Щит",
+    "name_eng": "Scutum",
+    "season": "летнее",
+    "best_months": [
+      7,
+      8,
+      9
+    ],
+    "center_ra": 18.670115944444444,
+    "center_dec": -9.89357088888889,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 80,
+      "always_visible_above": null,
+      "never_visible_below": -80
+    },
+    "stars_count": 18,
+    "description": "Созвездие Щит содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/sct.jpg"
+  },
+  {
+    "id": "aql",
+    "name": "Орёл",
+    "name_eng": "Aquila",
+    "season": "летнее",
+    "best_months": [
+      6,
+      7,
+      8
+    ],
+    "center_ra": 19.58892770833334,
+    "center_dec": 3.7243649444444458,
+    "visibility": {
+      "min_latitude": -86,
+      "max_latitude": 90,
+      "always_visible_above": 86,
+      "never_visible_below": null
+    },
+    "stars_count": 72,
+    "description": "Созвездие Орёл содержит звезды: Altair, Tarazed, Okab.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/aql.jpg"
+  },
+  {
+    "id": "vul",
+    "name": "Лисичка",
+    "name_eng": "Vulpecula",
+    "season": "летнее",
+    "best_months": [
+      7,
+      8,
+      9
+    ],
+    "center_ra": 20.147214318181824,
+    "center_dec": 24.608025454545455,
+    "visibility": {
+      "min_latitude": -65,
+      "max_latitude": 90,
+      "always_visible_above": 65,
+      "never_visible_below": null
+    },
+    "stars_count": 44,
+    "description": "Созвездие Лисичка содержит звезды: Anser.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/vul.jpg"
+  },
+  {
+    "id": "cyg",
+    "name": "Лебедь",
+    "name_eng": "Cygnus",
+    "season": "летнее",
+    "best_months": [
+      7,
+      8,
+      9
+    ],
+    "center_ra": 20.515511167883204,
+    "center_dec": 42.42191966423357,
+    "visibility": {
+      "min_latitude": -48,
+      "max_latitude": 90,
+      "always_visible_above": 48,
+      "never_visible_below": null
+    },
+    "stars_count": 137,
+    "description": "Созвездие Лебедь содержит звезды: Deneb, Sadr, Aljanah.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/cyg.jpg"
+  },
+  {
+    "id": "sge",
+    "name": "Стрела",
+    "name_eng": "Sagitta",
+    "season": "летнее",
+    "best_months": [
+      7,
+      8,
+      9
+    ],
+    "center_ra": 19.87568207142857,
+    "center_dec": 18.189211785714285,
+    "visibility": {
+      "min_latitude": -72,
+      "max_latitude": 90,
+      "always_visible_above": 72,
+      "never_visible_below": null
+    },
+    "stars_count": 14,
+    "description": "Созвездие Стрела содержит звезды: Sham.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/sge.jpg"
+  },
+  {
+    "id": "cap",
+    "name": "Козерог",
+    "name_eng": "Capricornus",
+    "season": "осеннее",
+    "best_months": [
+      9,
+      10,
+      11
+    ],
+    "center_ra": 21.074441875,
+    "center_dec": -18.13324760416667,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 72,
+      "always_visible_above": null,
+      "never_visible_below": -72
+    },
+    "stars_count": 48,
+    "description": "Созвездие Козерог содержит звезды: Deneb Algedi, Dabih, Algedi.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/cap.jpg"
+  },
+  {
+    "id": "del",
+    "name": "Дельфин",
+    "name_eng": "Delphinus",
+    "season": "летнее",
+    "best_months": [
+      7,
+      8,
+      9
+    ],
+    "center_ra": 20.71217177777778,
+    "center_dec": 13.525964722222218,
+    "visibility": {
+      "min_latitude": -76,
+      "max_latitude": 90,
+      "always_visible_above": 76,
+      "never_visible_below": null
+    },
+    "stars_count": 18,
+    "description": "Созвездие Дельфин содержит звезды: Rotanev, Sualocin, Aldulfin.",
+    "how_to_find": "Созвездие видно в летнее время года.",
+    "picture": "constellations/del.jpg"
+  },
+  {
+    "id": "mic",
+    "name": "Микроскоп",
+    "name_eng": "Microscopium",
+    "season": "осеннее",
+    "best_months": [
+      9,
+      10,
+      11
+    ],
+    "center_ra": 21.057304826086956,
+    "center_dec": -37.200564956521745,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 53,
+      "always_visible_above": null,
+      "never_visible_below": -53
+    },
+    "stars_count": 23,
+    "description": "Созвездие Микроскоп содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/mic.jpg"
+  },
+  {
+    "id": "ind",
+    "name": "Индеец",
+    "name_eng": "Indus",
+    "season": "осеннее",
+    "best_months": [
+      9,
+      10,
+      11
+    ],
+    "center_ra": 21.618380999999996,
+    "center_dec": -58.676105368421055,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 31,
+      "always_visible_above": null,
+      "never_visible_below": -31
+    },
+    "stars_count": 19,
+    "description": "Созвездие Индеец содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/ind.jpg"
+  },
+  {
+    "id": "aqr",
+    "name": "Водолей",
+    "name_eng": "Aquarius",
+    "season": "осеннее",
+    "best_months": [
+      9,
+      10,
+      11
+    ],
+    "center_ra": 22.53465325252526,
+    "center_dec": -10.858535313131314,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 79,
+      "always_visible_above": null,
+      "never_visible_below": -79
+    },
+    "stars_count": 99,
+    "description": "Созвездие Водолей содержит звезды: Sadalsuud, Sadalmelik, Skat.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/aqr.jpg"
+  },
+  {
+    "id": "equ",
+    "name": "Малый Конь",
+    "name_eng": "Equuleus",
+    "season": "осеннее",
+    "best_months": [
+      9,
+      10,
+      11
+    ],
+    "center_ra": 21.175304583333332,
+    "center_dec": 7.360571999999999,
+    "visibility": {
+      "min_latitude": -83,
+      "max_latitude": 90,
+      "always_visible_above": 83,
+      "never_visible_below": null
+    },
+    "stars_count": 12,
+    "description": "Созвездие Малый Конь содержит звезды: Kitalpha.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/equ.jpg"
+  },
+  {
+    "id": "gru",
+    "name": "Журавль",
+    "name_eng": "Grus",
+    "season": "осеннее",
+    "best_months": [
+      9,
+      10,
+      11
+    ],
+    "center_ra": 22.673113205128203,
+    "center_dec": -44.828854128205144,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 45,
+      "always_visible_above": null,
+      "never_visible_below": -45
+    },
+    "stars_count": 39,
+    "description": "Созвездие Журавль содержит звезды: Alnair, Tiaki, Aldhanab.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/gru.jpg"
+  },
+  {
+    "id": "psa",
+    "name": "Южная Рыба",
+    "name_eng": "Piscis Austrinus",
+    "season": "осеннее",
+    "best_months": [
+      9,
+      10,
+      11
+    ],
+    "center_ra": 22.43027842307692,
+    "center_dec": -30.406320615384615,
+    "visibility": {
+      "min_latitude": -90,
+      "max_latitude": 60,
+      "always_visible_above": null,
+      "never_visible_below": -60
+    },
+    "stars_count": 26,
+    "description": "Созвездие Южная Рыба содержит звезды: Fomalhaut.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/psa.jpg"
+  },
+  {
+    "id": "lac",
+    "name": "Ящерица",
+    "name_eng": "Lacerta",
+    "season": "осеннее",
+    "best_months": [
+      9,
+      10,
+      11
+    ],
+    "center_ra": 22.620529027777778,
+    "center_dec": 44.92691683333332,
+    "visibility": {
+      "min_latitude": -45,
+      "max_latitude": 90,
+      "always_visible_above": 45,
+      "never_visible_below": null
+    },
+    "stars_count": 36,
+    "description": "Созвездие Ящерица содержит звезды: яркие звезды.",
+    "how_to_find": "Созвездие видно в осеннее время года.",
+    "picture": "constellations/lac.jpg"
+  }
+]

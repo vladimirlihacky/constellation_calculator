@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', path='/styles.css') }}">
+</head>
+<body>
+    <img src="{{ url_for('static', path='bg.png') }}" class="background" alt="">
+    <main>
+        <div class="filler"></div>
+        <div class="sidebar">
+            <div class="sidebar-title">Добро пожаловать!</div>
+            <div class="sidebar-caption">Обратите внимание, что сайт ориентирован <br> примерно на 55 градусов северной широты</div>
+            <a class="sidebar-link" href="/notifications">Напоминания</a>
+            <a class="sidebar-link" href="/constellations/all">Список созвездий</a>
+            <form class="sidebar-forn" action="/constellations/at" method="get">
+                <input class="sidebar-date" type="date" name="at" id="at" value="2025-09-29">
+                <button class="sidebar-submit" type="submit">Поиск по дате</button>
+            </form>
+        </div>
+        <div class="content">
+            {% block content %}{% endblock %}
+        </div>
+    </main>
+</body>
+</html>

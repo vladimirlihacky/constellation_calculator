@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block title %} {{constellation.name}} {% endblock %}
+
+{% block content %}
+    <div class="page-title">
+        Созвездие {{ constellation.name }} ({{ constellation.name_eng }})
+    </div>
+    <div class="constellation-info">
+        <img src="{{ url_for('static', path=constellation.picture) }}" class="constellation-picture">
+        <div class="constellation-description">
+            <div>
+            <div class="title">Описание</div>
+                {{ constellation.description }}
+            </div>
+            <div>
+                <div class="title">Как найти?</div>
+                {{ constellation.how_to_find }}
+            </div>
+        </div>
+    </div>
+{% endblock %}
